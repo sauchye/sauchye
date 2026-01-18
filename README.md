@@ -1,8 +1,7 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning iOS
-- 🏃🏻 Enjoy jogging [Strava](https://www.strava.com/athletes/51753325)
-- 📫 How to reach me: isau@qq.com
+- 🌱 I’m currently learning iOS 💻📱⌚️
+- 🏃🏻 Fitness with Apple Watch ⌚️ [Strava](https://www.strava.com/athletes/51753325)
 
 ## iOS App
 [过早客](https://apps.apple.com/app/id6740704728) 
